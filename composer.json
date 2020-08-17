@@ -55,6 +55,7 @@
     "laravel/helpers": "^1.1",
     "laravel/tinker": "^1.0",
     "predis/predis": "~1.0",
+    "omniphx/forrest": "2.*",
     "php": "^7.2"
   },
   "require-dev": {

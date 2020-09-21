@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>DreamFactory Instance&trade;</title>
+    <title>ThatApp Dreamfactory Instance&trade;</title>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <meta name="language" content="en" />
@@ -61,7 +61,7 @@
         <td align="left" valign="middle" style="margin: 10px 0; padding: 10px 0 15px;">
             <a style="text-decoration:none; cursor:pointer; border:none; display:block; height:29px; width:100%;"
                target="_blank"
-               href="//dreamfactory.com">
+               href="https://mesh.thatapp.io">
                 <img src="http://dreamfactory.com/images/email-logo-215x29.png"
                                                               width="215"
                                                               height="29"
@@ -116,15 +116,15 @@
     <tr>
         <td style="font-size: 8pt;color: #aaa; padding: 0 5px;">
             <p>
-                You received this email because you used a <a href="//www.dreamfactory.com/" alt target="_blank">DreamFactory
-                    Instance&trade;</a>. This system will never use your email address other than to communicate with you about your
+                You received this email because you used a <a href="//mesh.thatapp.io" alt target="_blank">Mesh(ThatApp.io)
+                    &trade;</a>. This system will never use your email address other than to communicate with you about your
                 system usage.
             </p>
 
             <p>If you need further assistance or have questions, please email <a
                         style="color:#0077B5;text-decoration:none;"
                         target="_blank"
-                        href="mailto:dspsupport@dreamfactory.com">DreamFactory Support</a>.</p>
+                        href="mailto:info@thatapp.io">ThatApp DreamFactory Support</a>.</p>
         </td>
     </tr>
     </tbody>

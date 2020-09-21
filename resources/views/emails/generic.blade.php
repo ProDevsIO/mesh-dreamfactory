@@ -21,7 +21,7 @@
         </div>
 
         <p>
-            <cite>-- The Dream Team</cite>
+            <cite>-- The ThatApp Team</cite>
         </p>
     </div>
 @stop
